@@ -46,7 +46,8 @@
 └── temp_image.jpg
 ```
 
-The project structure consists of the following directories and files:
+This project verifies if a signature is real or forged. 
+The structure consists of the following directories and files:
 **app**: The main application package containing the core logic of the signature verification system.
 **__init__.py**: Initialization file for the app package.
 auth: Subpackage for authentication-related functionality.
